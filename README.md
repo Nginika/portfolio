@@ -1,32 +1,18 @@
-﻿# Janefolio
+﻿# Nginikafolio
 - A fully responsive, dynamic, and interactive portfolio website.
     
-    - Live Link :: [Go Live](https://iamnaeto.github.io/janefolio/)
+    - Live Link :: [Go Live](https://nginika.github.io/portfolio/)
     
-## Author: Charles Obimnaeto Egesionu ##
-
 ## Connect with me: ##
 
-<a href="https://linkedin.com/in/charles-obimnaetochukwu-egesionu/">
+<a href="https://www.linkedin.com/in/ugochukwu-nginika">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://twitter.com/naetocharlie/">
+<a href="https://twitter.com/jane_filz/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://www.instagram.com/iam_naetocharlie/">
+<a href="https://www.instagram.com/jane_filz/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/512px-Instagram.svg.png?20170725025253" width="45" height="45"/>
-</a>
-
-<a href="https://stackoverflow.com/users/20085737/iamnaeto">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" width="45" height="45"/>
-</a>
-
-<a href="https://www.figma.com/@iamnaeto">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-</a>
-
-<a href="https://replit.com/@IamNaeto">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png?20190414162605" width="45" height="45"/>
 </a>
